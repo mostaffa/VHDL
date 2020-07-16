@@ -1,0 +1,8 @@
+>/usr/lib/ghdl/gcc/vhdl/ieee/v93/
+../../src/openieee/std_logic_1164.v93
+>/usr/lib/ghdl/gcc/vhdl/ieee/v93/
+../../src/openieee/std_logic_1164-body.v93
+>
+ha_tb.vhdl
+>
+ha.vhdl
