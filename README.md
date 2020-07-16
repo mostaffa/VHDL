@@ -1,6 +1,6 @@
 # VHDL
 ## to check if Syntax is correct:
- ghdl -s file.vhdl
+<pre> ghdl -s file.vhdl</pre>
 ## to compile file:
  <pre>ghdl -a fiel.vhdl</pre>
 ## to generate vcd file
